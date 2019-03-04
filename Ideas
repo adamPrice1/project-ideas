@@ -5,3 +5,4 @@
 5. Instagram bot for posting interesting pictures / gaining popularity organically
 6. Car-Puter GUI setup, raspberry PI + OBDII scanner for vehicle specs
 7. Google calendar integrated smart door lock with RFID. (Heroku + Arduino with wifi shield)
+8. Live poll github integraton to vote for ideas and re-order the list based on popularity.
